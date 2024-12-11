@@ -1,5 +1,6 @@
-# Assistente de Personal Trainer
+<h1 align="center">Assistente de Personal Trainer</h1>
 
+## Descrição do projeto
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido.
 
 ## Tecnologias Usadas
@@ -22,5 +23,3 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
    ```bash
    python personal_trainer_assistant.py
 
-## 📖 Sobre o Projeto
-Este projeto foi desenvolvido como uma extensão prática para consolidar conhecimentos em lógica de programação e criação de projetos.
