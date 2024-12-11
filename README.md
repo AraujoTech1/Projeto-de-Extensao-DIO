@@ -23,4 +23,4 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
    python personal_trainer_assistant.py
 
 ## 📖 Sobre o Projeto
-Este projeto foi desenvolvido como uma extensão prática para consolidar conhecimentos em lógica de programação e organização de projetos.
+Este projeto foi desenvolvido como uma extensão prática para consolidar conhecimentos em lógica de programação e criação de projetos.
