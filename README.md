@@ -2,6 +2,11 @@
 
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido.
 
+## Tecnologias Usadas
+- **Python**: Linguagem principal usada para criar o programa.
+- **VS Code**: Editor de código usado para o desenvolvimento.
+- **Git e GitHub**: Controle de versão e armazenamento do projeto.
+
 ## Funcionalidades
 
 - Seleção de biotipo corporal (Ectomorfo, Mesomorfo, Endomorfo).
@@ -16,3 +21,6 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 3. Execute o programa:
    ```bash
    python personal_trainer_assistant.py
+
+## 📖 Sobre o Projeto
+Este projeto foi desenvolvido como uma extensão prática para consolidar conhecimentos em lógica de programação e organização de projetos.
