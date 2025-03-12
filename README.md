@@ -11,7 +11,7 @@
 </p>
 
 
-<h1 align="center">Assistente de Personal Trainer</h1>
+<h1 align="center">Assistente de Personal Trainer - Part2</h1>
 
 ## Descrição do projeto
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido.
