@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300px" src=".github/assets/logo_2.png">
+    <img width="300px" src="[.github/assets/logo_2.png](https://github.com/AraujoTech1/prompt-challenger-personal-ia/blob/main/.github/assets/logo_2.png)">
 </p>
 
 <h1 align="center">Assistente de Personal Trainer</h1>
