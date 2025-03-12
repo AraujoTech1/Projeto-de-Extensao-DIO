@@ -18,6 +18,8 @@
 ## Descrição do projeto
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido (Continuação de um projeto). 
 
+📌 Informações Importantes
+[Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
 
 
 ## Funcionalidades
@@ -25,7 +27,6 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 - Escolha da frequência semanal de treinos.
 - Sugestão de treinos com base nas preferências.
 - Geração de arquivo com o plano de treino.
-  
 
 
 ## Como Executar
@@ -49,26 +50,21 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 <a href="https://github.com/" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-Project-FED564?logo=github&logoColor=white" alt="GitHub">
 </a>
-
-
-
-## Informações Importantes
-- 📌 [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
   
 
-
-## Documentação
+## Documentação 
 - **Python:**
-   🔗 [Site Oficial](https://www.python.org/) - 🔗 [Documentação](https://docs.python.org/3/)
+   🔗 [Site Oficial](https://www.python.org/) | 🔗 [Documentação](https://docs.python.org/3/)
 
-- **Visual Studio Code (VS Code):**
-   🔗 [Site Oficial](https://code.visualstudio.com/) - 🔗 [Documentação](https://code.visualstudio.com/docs)
+- **VS Code:**
+   🔗 [Site Oficial](https://code.visualstudio.com/) | 🔗 [Documentação](https://code.visualstudio.com/docs)
 
 - **Git:**
-   🔗 [Site Oficial](https://git-scm.com/) - 🔗 [Documentação](https://git-scm.com/doc)
+   🔗 [Site Oficial](https://git-scm.com/) | 🔗 [Documentação](https://git-scm.com/doc)
 
 - **GitHub:**
-   🔗 [Site Oficial](https://github.com/) - 🔗 [Documentação](https://docs.github.com/)
+   🔗 [Site Oficial](https://github.com/) | 🔗 [Documentação](https://docs.github.com/)
+
 
 ---
 <p align="right">
