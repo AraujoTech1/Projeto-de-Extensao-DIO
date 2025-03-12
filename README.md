@@ -47,7 +47,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 </a>
 
 
-
+👩🏻‍💻 (Projeto Part 01)[https://github.com/AraujoTech1/prompt-challenger-personal-ia]
 
 ---
 <p align="right">
