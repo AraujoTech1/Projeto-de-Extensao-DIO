@@ -55,7 +55,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 - **Python:**
    🔗 [Site Oficial](https://www.python.org/) | 🔗 [Documentação](https://docs.python.org/3/)
 
-- **VS Code:**
+- **VSCode:**
    🔗 [Site Oficial](https://code.visualstudio.com/) | 🔗 [Documentação](https://code.visualstudio.com/docs)
 
 - **Git:**
