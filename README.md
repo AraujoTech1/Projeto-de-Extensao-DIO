@@ -15,21 +15,21 @@
 
 
 
-## Descrição do projeto
+## **Descrição do projeto**
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido (Continuação de um projeto). 
 
-📌 Informações Importantes
+📌 Informações Importantes:
 [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
 
 
-## Funcionalidades
+## **Funcionalidades**
 - Seleção de biotipo corporal (Ectomorfo, Mesomorfo, Endomorfo).
 - Escolha da frequência semanal de treinos.
 - Sugestão de treinos com base nas preferências.
 - Geração de arquivo com o plano de treino.
 
 
-## Como Executar
+## **Como Executar**
 1. Instale o Python em seu computador.
 2. No terminal, navegue até a pasta do projeto.
 3. Execute o programa:
@@ -37,7 +37,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
    python personal_trainer_assistant.py
 
 
-## Tecnologias Usadas
+## **Tecnologias Usadas**
 <a href="https://www.python.org/" title="Python">
     <img src="https://img.shields.io/badge/Python-Project-FED564?logo=python&logoColor=white" alt="Python">
 </a>
@@ -52,7 +52,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 </a>
   
 
-## Documentação 
+## **Documentação** 
 - **Python:**
    🔗 [Site Oficial](https://www.python.org/) | 🔗 [Documentação](https://docs.python.org/3/)
 
