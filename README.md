@@ -47,16 +47,16 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 - 👩🏻‍💻 [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
 
 ## Documentação
-1. **Python**
+- **Python**
    🔗 [Site Oficial](https://www.python.org/) - 🔗 [Documentação](https://docs.python.org/3/)
 
-2. **Visual Studio Code (VS Code)**
+- **Visual Studio Code (VS Code)**
    🔗 [Site Oficial](https://code.visualstudio.com/) - 🔗 [Documentação](https://code.visualstudio.com/docs)
 
-3. **Git**
+- **Git**
    🔗 [Site Oficial](https://git-scm.com/) - 🔗 [Documentação](https://git-scm.com/doc)
 
-4. **GitHub**
+- **GitHub**
    🔗 [Site Oficial](https://github.com/) - 🔗 [Documentação](https://docs.github.com/)
 
 
