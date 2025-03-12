@@ -2,6 +2,14 @@
     <img width="300px" src="https://github.com/AraujoTech1/prompt-challenger-personal-ia/blob/main/.github/assets/logo_2.png">
 </p>
 
+<p align="center">
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Project-FED564?logo=youtube" alt="DIO - Project"></a>
+<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-FED564?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a>
+<a href="https://aws.amazon.com/" title="Powered by AWS">
+  <img src="https://img.shields.io/badge/Powered%20by-AWS-FED564?logo=icloud&logoColor=white" alt="Powered by AWS">
+</a>
+</p>
+
 
 <h1 align="center">Assistente de Personal Trainer</h1>
 
