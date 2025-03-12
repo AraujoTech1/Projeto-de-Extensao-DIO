@@ -62,6 +62,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 - **GitHub:** 🔗| [Site Oficial](https://github.com/) 🔗| [Documentação](https://docs.github.com/)
 
 
+
 ---
 <p align="right">
   <img width="12" />
