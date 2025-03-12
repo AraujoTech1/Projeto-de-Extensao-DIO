@@ -36,19 +36,20 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
    python personal_trainer_assistant.py
 
 
-## **Tecnologias Usadas**
+## **Tecnologias Usadas**  
 <a href="https://www.python.org/" title="Python">
-    <img src="https://img.shields.io/badge/Python-Project-FED564?logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Python-Project-FED564?logo=python&logoColor=white" alt="Python" style="margin-right: 10px;">
 </a>
 <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://img.shields.io/badge/VS_Code-Project-FED564?logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/VS_Code-Project-FED564?logo=visualstudiocode&logoColor=white" alt="VS Code" style="margin-right: 10px;">
 </a>
 <a href="https://git-scm.com/" title="Git">
-    <img src="https://img.shields.io/badge/Git-Project-FED564?logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Git-Project-FED564?logo=git&logoColor=white" alt="Git" style="margin-right: 10px;">
 </a>
 <a href="https://github.com/" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-Project-FED564?logo=github&logoColor=white" alt="GitHub">
 </a>
+
   
 
 ## **Documentação** 
