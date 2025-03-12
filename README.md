@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="300px" src=".github/assets/logo_2.png">
+</p>
+
 <h1 align="center">Assistente de Personal Trainer</h1>
 
 ## Descrição do projeto
