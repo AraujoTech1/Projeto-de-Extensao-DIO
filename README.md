@@ -11,15 +11,14 @@
 </p>
 
 
-<h1 align="center">Assistente de Personal Trainer - Part2</h1>
+<h1 align="center">Assistente de Personal Trainer - Part 02</h1>
 
 
 
 ## **Descrição do projeto**
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido (Continuação de um projeto). 
 
-📌 Informações Importantes:
-[Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
+📌 **Informações Importantes:** [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
 
 
 ## **Funcionalidades**
