@@ -13,12 +13,12 @@
 
 <h1 align="center">Assistente de Personal Trainer - Part2</h1>
 
----
+
 
 ## Descrição do projeto
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido.
 
----
+--
 
 ## Funcionalidades
 - Seleção de biotipo corporal (Ectomorfo, Mesomorfo, Endomorfo).
@@ -26,7 +26,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 - Sugestão de treinos com base nas preferências.
 - Geração de arquivo com o plano de treino.
   
----
+--
 
 ## Como Executar
 1. Instale o Python em seu computador.
@@ -35,7 +35,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
    ```bash
    python personal_trainer_assistant.py
    
----
+--
 
 ## Tecnologias Usadas
 <a href="https://www.python.org/" title="Python">
@@ -51,24 +51,24 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
     <img src="https://img.shields.io/badge/GitHub-Project-FED564?logo=github&logoColor=white" alt="GitHub">
 </a>
 
----
+--
 
 ## Informações
 - 👩🏻‍💻 [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
   
----
+--
 
 ## Documentação
-- **Python**
+- **Python:**
    🔗 [Site Oficial](https://www.python.org/) - 🔗 [Documentação](https://docs.python.org/3/)
 
-- **Visual Studio Code (VS Code)**
+- **Visual Studio Code (VS Code):**
    🔗 [Site Oficial](https://code.visualstudio.com/) - 🔗 [Documentação](https://code.visualstudio.com/docs)
 
-- **Git**
+- **Git:**
    🔗 [Site Oficial](https://git-scm.com/) - 🔗 [Documentação](https://git-scm.com/doc)
 
-- **GitHub**
+- **GitHub:**
    🔗 [Site Oficial](https://github.com/) - 🔗 [Documentação](https://docs.github.com/)
 
 ---
