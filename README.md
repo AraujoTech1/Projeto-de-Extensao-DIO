@@ -33,11 +33,21 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 
 ## Tecnologias Usadas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<a href="https://www.python.org/" title="Python">
+    <img src="https://img.shields.io/badge/Python-Project-FED564?logo=python&logoColor=white" alt="Python">
+</a>
+<a href="https://code.visualstudio.com/" title="VS Code">
+    <img src="https://img.shields.io/badge/VS_Code-Project-FED564?logo=visualstudiocode&logoColor=white" alt="VS Code">
+</a>
+<a href="https://git-scm.com/" title="Git">
+    <img src="https://img.shields.io/badge/Git-Project-FED564?logo=git&logoColor=white" alt="Git">
+</a>
+<a href="https://github.com/" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Project-FED564?logo=github&logoColor=white" alt="GitHub">
+</a>
+
+
+
 
 ---
 <p align="right">
