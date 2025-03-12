@@ -16,7 +16,7 @@
 
 
 ## Descrição do projeto
-Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido.
+Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido (Continuação de um projeto). 
 
 
 
@@ -34,7 +34,6 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 3. Execute o programa:
    ```bash
    python personal_trainer_assistant.py
-   
 
 
 ## Tecnologias Usadas
