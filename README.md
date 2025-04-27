@@ -52,13 +52,13 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 
 
 ## **Documentação** 
-- **Python:** 🔗| [Site Oficial](https://www.python.org/) 🔗| [Documentação](https://docs.python.org/3/)
+- **Python:** 🔗| [Documentação](https://docs.python.org/3/)
 
-- **VSCode:** 🔗| [Site Oficial](https://code.visualstudio.com/) 🔗| [Documentação](https://code.visualstudio.com/docs)
+- **VSCode:** 🔗| [Documentação](https://code.visualstudio.com/docs)
 
-- **Git:** 🔗| [Site Oficial](https://git-scm.com/) 🔗| [Documentação](https://git-scm.com/doc)
+- **Git:** 🔗| [Documentação](https://git-scm.com/doc)
 
-- **GitHub:** 🔗| [Site Oficial](https://github.com/) 🔗| [Documentação](https://docs.github.com/)
+- **GitHub:** 🔗| [Documentação](https://docs.github.com/)
 
 
 
