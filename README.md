@@ -11,14 +11,11 @@
 </p>
 
 
-<h1 align="center">Assistente de Personal Trainer - Part 02</h1>
-
+<h1 align="center">Assistente de Personal Trainer</h1>
 
 
 ## **Descrição**
-Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido (Continuação de um projeto). 
-
-> **Informações Importantes:** [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
+Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido. 
 
 
 ## **Funcionalidades**
@@ -52,12 +49,10 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
 
 
 ## **Documentação** 
+
 - **Python:** 🔗| [Documentação](https://docs.python.org/3/)
-
 - **VSCode:** 🔗| [Documentação](https://code.visualstudio.com/docs)
-
 - **Git:** 🔗| [Documentação](https://git-scm.com/doc)
-
 - **GitHub:** 🔗| [Documentação](https://docs.github.com/)
 
 
