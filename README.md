@@ -15,10 +15,10 @@
 
 
 
-## **Descrição do projeto**
+## **Descrição**
 Um gerador de plano de treino personalizado baseado no biotipo, dias disponíveis e tipo de exercício preferido (Continuação de um projeto). 
 
-📌 **Informações Importantes:** [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
+> **Informações Importantes:** [Projeto Part 01](https://github.com/AraujoTech1/prompt-challenger-personal-ia)
 
 
 ## **Funcionalidades**
@@ -36,7 +36,7 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
    python personal_trainer_assistant.py
 
 
-## **Tecnologias Usadas**  
+## **Tecnologias**  
 <a href="https://www.python.org/" title="Python">
     <img src="https://img.shields.io/badge/Python-Project-FED564?logo=python&logoColor=white" alt="Python" style="margin-right: 15px; height: 24px;">
 </a>
@@ -50,7 +50,6 @@ Um gerador de plano de treino personalizado baseado no biotipo, dias disponívei
     <img src="https://img.shields.io/badge/GitHub-Project-FED564?logo=github&logoColor=white" alt="GitHub" style="height: 24px;">
 </a>
 
-  
 
 ## **Documentação** 
 - **Python:** 🔗| [Site Oficial](https://www.python.org/) 🔗| [Documentação](https://docs.python.org/3/)
